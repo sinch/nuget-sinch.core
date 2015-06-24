@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <dependencies>
+      <group targetFramework="net45">
+        <dependency id="Microsoft.AspNet.WebApi.Client" version="5.2.3" />
+        <dependency id="Newtonsoft.Json" version="7.0.1" />
+      </group>
+    </dependencies>
+    <id>Sinch.Core</id>
+    <version>1.0.3.0</version>
+    <title>Sinch.Core</title>
+    <authors>Christian Jensen</authors>
+    <description>Core library for sinch RestAPI</description>
+    <language />
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <developmentDependency>false</developmentDependency>
+    <copyright>Copyright ©  2015</copyright>
+  </metadata>
+  <files>
+    <file src="C:\Users\Christian\Documents\github\SinchNuget\Sinch.Core\Sinch.Core\bin\Debug\Sinch.Core.dll" target="lib\net45" />
+    <file src="C:\Users\Christian\Documents\github\SinchNuget\Sinch.Core\Sinch.Core\bin\Debug\Sinch.Core.pdb" target="lib\net45" />
+  </files>
+</package>
